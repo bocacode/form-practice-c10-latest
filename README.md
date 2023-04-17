@@ -1,7 +1,7 @@
 # Form Practice - React.js App
 Building a React app with onchange functionality for an HTML form for BocaCode C-10 in class practice.
 
-![screen shot](./public/images/readme.png)
+[![screen shot](./public/images/readme.png)](https://form-practice-jsohndata.web.app/)
 
 ## Demo Link
 [See Link](https://form-practice-jsohndata.web.app/)
